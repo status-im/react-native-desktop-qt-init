@@ -1,0 +1,25 @@
+{
+  "name": "react-native-desktop-qt-init",
+  "version": "0.1.0",
+  "description": "CLI to bootstrap the addition of desktop-qt platform to existing react-native project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "react-native-desktop-qt-init": "./bin.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vkjr/react-native-desktop-qt-init.git"
+  },
+  "author": "Volodymyr Kozieiev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vkjr/react-native-desktop-qt-init/issues"
+  },
+  "homepage": "https://github.com/vkjr/react-native-desktop-qt-init#readme",
+  "dependencies": {
+    "chalk": "^1.1.3"
+  }
+}
