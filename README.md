@@ -9,7 +9,7 @@ npx react-native init MyProject --version 0.60.6
 cd MyProject
 
 //Add desktop support.
-npx https://github.com/vkjr/react-native-desktop-qt-init.git
+npx https://github.com/status-im/react-native-desktop-qt-init.git
 
 //Now `run-desktop` command available
 npx react-native run-desktop
